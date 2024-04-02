@@ -116,8 +116,11 @@ contract CErc20 is EToken, CErc20Interface, CCapableDelegateInterface {
      */
     function sweepToken(EIP20NonStandardInterface token) public {
     	require(address(token) != underlying, "can not sweep underlying token");
+        uint256 underlyingBalanceBefore = EIP20Interface(underlying).balanceOf(address(this));
     	uint256 balance = token.balanceOf(address(this));
     	token.transfer(admin, balance);
+        uint256 underlyingBalanceAfter = EIP20Interface(underlying).balanceOf(address(this));
+        require(underlyingBalanceBefore == underlyingBalanceAfter);
     }
 
     /**
