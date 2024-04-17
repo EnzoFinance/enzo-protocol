@@ -10,6 +10,19 @@ Installation
     cd enzo-protocol
     yarn install # or `npm install`
 
+Contract Addresses(Mainnet)
+------------
+- Enzotroller: '0xe688a4a94AD1D32CD52A01306fc0a9552749F322',
+- EnzoConfig: '0x546Cb03Be459D8bf2649c4fD6c67a3Eb62566b20',
+- CompoundLens: '0x50e323cb01027532f79289c522Cda6a628670E34',
+- InterestRateModel: '0xB6F7789A37a4fEb15B7e1A49c2491aa892C91bB8',
+- PriceOracle: '0xfB896d8765dC8b772416786ed126Afb8A5Dbb706'
+- eBTC: '0xe277Aed3fF3Eb9824EdC52Fe7703DF0c5ED8B313',
+- eUSDT: '0xF6Fa83E30c7d3978F86141016ee9471d77f48aE0',
+- eUSDC: '0xBb0CB5C5e49d5C3903932d07831fB8c1bB1651d2',
+- eETH: '0xAb7f136BBb18808F0C981D0307D3360cA92AD171',
+- Maximillion: '0x29039715bf63B76a5a8E4eb7B1E5370c7F7a85AC'
+  
 Contract Addresses(Testnet)
 ------------
 - Enzotroller: '0xe7B61278722728e814fC39ef201B2594ac8971Ff',
