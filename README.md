@@ -27,6 +27,7 @@ Contract Addresses(Mainnet)
 | USDC          | 0x9827431e8b77e87c9894bd50b055d6be56be0030  | 0xBb0CB5C5e49d5C3903932d07831fB8c1bB1651d2 |
 | ETH           | 0xef63d4e178b3180beec9b0e143e0f37f4c93f4c2  | 0xAb7f136BBb18808F0C981D0307D3360cA92AD171 |
 | bitusd        | 0x07373d112edc4570b46996ad1187bc4ac9fb5ed0  | 0x7B8b014D11cEBeA98B7FBbF6Ff82f44e97A3670B |
+| stBTC         | 0xf6718b2701D4a6498eF77D7c152b2137Ab28b8A3  | 0xd0ad7f7d780678a4b76eb62fb5ff3baedcf34bdf |
   
 Contract Addresses(Testnet)
 ------------
